@@ -1,2 +1,2 @@
 # hello-world
-Just another repo
+Study for my first repo process!
